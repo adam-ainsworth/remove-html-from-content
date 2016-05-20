@@ -1,2 +1,2 @@
 # remove-html-from-content
-Allows the Featured Image to be inserted before the content in your pages or posts
+Removes HTML tags on-the-fly, leaving just the raw text.
